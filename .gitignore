@@ -41,6 +41,9 @@ results*.csv
 coco/
 coco128/
 VOC/
+.yolo-zenml/
+yolo-zenml/
+augment/
 
 # MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
 *.m~
